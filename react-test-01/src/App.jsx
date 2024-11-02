@@ -3,7 +3,7 @@ import './App.css'
 function App() {
 
  const styles_d = {
-  color:'red'
+  color:'yellow'
  }
 
   return (
